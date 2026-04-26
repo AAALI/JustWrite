@@ -402,10 +402,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"freewrite/Preview Content\"";
-				DEVELOPMENT_TEAM = 2UDAY4J48G;
+				DEVELOPMENT_TEAM = 3UWZ5ZA4P5;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Freewrite needs camera access to record video entries.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Freewrite needs microphone access to record audio with your video entries.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Freewrite uses speech recognition to show live captions while recording.";
@@ -424,7 +425,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.humansongs.freewrite;
+				PRODUCT_BUNDLE_IDENTIFIER = company.siro.justwrite;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = macosx;
@@ -447,10 +448,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"freewrite/Preview Content\"";
-				DEVELOPMENT_TEAM = 2UDAY4J48G;
+				DEVELOPMENT_TEAM = 3UWZ5ZA4P5;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Freewrite needs camera access to record video entries.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Freewrite needs microphone access to record audio with your video entries.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Freewrite uses speech recognition to show live captions while recording.";
@@ -469,7 +471,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.humansongs.freewrite;
+				PRODUCT_BUNDLE_IDENTIFIER = company.siro.justwrite;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = macosx;
